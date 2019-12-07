@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0867354a-ab3d-49ec-b4fb-394307c13e21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fieldsapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fieldsapp/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fieldsapp/templates/new_post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fieldsapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/fieldsapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fieldsapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/fieldsapp/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fieldsapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fieldsapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fieldsapp/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/fieldsapp/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fieldsapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fieldsapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fieldsapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fieldsapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sporthub/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sporthub/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UdbQgBV2SnWtWbDmfuYUfmyN7d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="fields" type="Python.DjangoServer" factoryName="Django server">
+      <module name="fields" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0867354a-ab3d-49ec-b4fb-394307c13e21" name="Default Changelist" comment="" />
+      <created>1575689404677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575689404677</updated>
+      <workItem from="1575689407810" duration="2906000" />
+      <workItem from="1575692595954" duration="6000" />
+      <workItem from="1575692647604" duration="4475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
